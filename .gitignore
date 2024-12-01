@@ -1,6 +1,7 @@
 Презентация/
 ТЗ/тз.txt
 idef0/idef0.tex
+
 *.aux
 *.fdb_latexmk
 *.fls
@@ -8,3 +9,6 @@ idef0/idef0.tex
 *.out
 *.synctex.gz
 *.toc
+
+idef0/Отчёт IDEF0_5130201 20102_Гаар В.С..log
+ТЗ/ТЗ_5130201 20102_Гаар В.С..log
